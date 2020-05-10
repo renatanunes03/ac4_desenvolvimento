@@ -1,0 +1,44 @@
+body{
+	font-size: 16px;
+	background: #e6e6e6;
+}
+header{
+	background: #f7b000;
+	padding: 15px;
+	text-align: center;
+}
+h1{
+	color: #4e4e4e;
+	font-size: 40px;
+}
+.branco {
+	color: #fff;
+}
+#conteudo-lateral{
+	background: #fff;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+
+
+footer{
+    background: #ccc;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+section{
+	width: 920px;
+	margin: 0 auto;
+}
+.postagem {
+	padding: 20px;
+	margin-bottom: 20px;
+	background: #fff;
+}
+#post {
+	width: 660px;
+	float: left;
+}
+	
